@@ -152,6 +152,12 @@
     .slide2-container-top-right{
         display: none;
     }
+    .slide2-container-top{
+        max-width: 335px;
+    }
+    .slide2-container-menu{
+        max-width: 335px;
+    }
 
     .slide3-container{
         max-width: 335px;
