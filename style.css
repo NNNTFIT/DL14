@@ -140,6 +140,8 @@
     line-height: 32px;
     letter-spacing: 10%;
     color: #FEFEFF;
+    text-transform: uppercase;
+
 }
 .herosection-container-tittle-top-bar{
     width: 100%;
@@ -399,6 +401,7 @@
 }
 .slide2-container-menu-text-none{
     font-weight: 400;
+    opacity: 70%;
 }
 .slide2-container-bottom{
     margin-top: 48px;
@@ -657,6 +660,7 @@
     align-items: center;
     flex-direction: column;
     gap: 24px;
+    opacity: 0.8;
 }
 .slide4-container-bottom-box-content-text{
     font-family: 'Inter';
@@ -678,6 +682,7 @@
     flex-direction: column;
     align-items: center;
     gap: 8px;
+    opacity: 0.8;
 }
 .slide4-container-bottom-box-account-avt{
     width: 100%;
@@ -694,6 +699,10 @@
 }   
 .slide4-box2 .slide4-container-bottom-box-content{ 
     background-color: #C8E6C9;
+    opacity: 1;
+}
+.slide4-box2 .slide4-container-bottom-box-account{
+    opacity: 1;
 }
 
 

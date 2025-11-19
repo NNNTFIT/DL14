@@ -43,6 +43,13 @@
     .herosection-container-tittle-top{
         gap: 13px;
     }
+    .herosection-container-tittle-top p{
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 10%;
+        text-transform: lowercase;
+
+    }
     .herosection-container-tittle-top-bar{
         max-width: 87.26298522949219px;
     }
@@ -89,6 +96,7 @@
     }
     .slide1-container-left-img{
         height: 306px;
+        margin-top: 11.18px;
     }
     .slide1-container-left-img-button{
         width: 73.76981353759766px;
@@ -157,6 +165,10 @@
     }
     .slide2-container-menu{
         max-width: 335px;
+        margin-top: 14px;
+    }
+    .slide2-container-bottom{
+        margin-top: 32.31px;
     }
 
     .slide3-container{
